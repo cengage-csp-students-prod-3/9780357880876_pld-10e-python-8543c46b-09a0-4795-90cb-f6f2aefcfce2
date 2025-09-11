@@ -4,7 +4,10 @@
 
 # Declare and initialize your variables here.
 
-newAge = currentAge + (2050 - currentYear)
+
+currentAge = input
+currentYear = 2025
+newAge = int (currentAge) + ( 2050 - int currentYear)
 
 print(f"My Current Age is {currentAge}")
 print(f"I will be {newAge} in 2050.")
