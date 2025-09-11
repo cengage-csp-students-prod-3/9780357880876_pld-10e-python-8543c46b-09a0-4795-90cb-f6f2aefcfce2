@@ -5,7 +5,7 @@
 # Declare and initialize your variables here.
 
 
-currentAge = input
+currentAge = 39
 currentYear = 2025
 newAge = int (currentAge) + ( 2050 - int currentYear)
 
