@@ -1,0 +1,66 @@
+
+Status: FAILED!
+Reason: Unable to run Furniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 14, in <module>
+    print(f"Sale Price: ${sale_price:.2f}")
+                          ^^^^^^^^^^
+NameError: name 'sale_price' is not defined
+
+Timestamp: 2025-09-17 23:58:14.735088
+
+Status: FAILED!
+Reason: Unable to run Furniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 14, in <module>
+    print(f"Sale Price: ${sale_price:.2f}")
+                          ^^^^^^^^^^
+NameError: name 'sale_price' is not defined
+
+Timestamp: 2025-09-17 23:58:14.735166
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 9, in <module>
+    print(f'Sale Price: ${sale_price:.2f}')
+                          ^^^^^^^^^^
+NameError: name 'sale_price' is not defined
+
+Timestamp: 2025-09-17 23:58:14.837430
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 9, in <module>
+    print(f'Sale Price: ${sale_price:.2f}')
+                          ^^^^^^^^^^
+NameError: name 'sale_price' is not defined
+
+Timestamp: 2025-09-17 23:58:14.837497
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 9, in <module>
+    print(f'Sale Price: ${sale_price:.2f}')
+                          ^^^^^^^^^^
+NameError: name 'sale_price' is not defined
+
+Timestamp: 2025-09-17 23:58:14.943483
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 9, in <module>
+    print(f'Sale Price: ${sale_price:.2f}')
+                          ^^^^^^^^^^
+NameError: name 'sale_price' is not defined
+
+Timestamp: 2025-09-17 23:58:14.943552
+
+Status: PASSED!
+Check: 4
+Test: Checking the program for hardcoded answers.
+Reason: None
+Timestamp: 2025-09-17 23:58:14.943899
