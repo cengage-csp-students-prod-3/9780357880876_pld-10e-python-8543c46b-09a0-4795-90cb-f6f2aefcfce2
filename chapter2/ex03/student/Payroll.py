@@ -27,4 +27,4 @@ print(f"Total withholding ${totalWithholding:.2f}")
 # Calculate take home pay here.
 
 print(f"Salary: ${salary:.2f}")
-print(f"Take-Home Pay: ${takeHomePay:.2f}")
+print(f"Take-Home Pay: ${takeHomePay:.2f}"
