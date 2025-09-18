@@ -3,7 +3,8 @@
 item_name = "TV Stand"
 retail_price = 325.00
 wholesale_price = 200.00
-profit= retail_price - wholesale_price
+profit = retail_price - wholesale_price
+sale_price = (25/100) * retail_price
 # Write your assignment statements here.
 
 
