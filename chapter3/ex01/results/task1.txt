@@ -1,0 +1,100 @@
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.260154
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.260252
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.361083
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.361157
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.465322
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.465391
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.575517
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.575589
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.676983
+
+Status: FAILED!
+Reason: Unable to run CollegeAdmission.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter3/ex01/CollegeAdmission.py", line 16, in <module>
+    if test_score  >= 90:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '>=' not supported between instances of 'str' and 'int'
+
+Timestamp: 2025-09-18 00:58:26.677070
