@@ -2,65 +2,65 @@
 Status: FAILED!
 Reason: Unable to run Furniture.py
 Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 14, in <module>
-    print(f"Sale Price: ${sale_price:.2f}")
-                          ^^^^^^^^^^
-NameError: name 'sale_price' is not defined
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 16, in <module>
+    print(f"Sale Profit: ${sale_profit:.2f}")
+                           ^^^^^^^^^^^
+NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
 
-Timestamp: 2025-09-17 23:58:14.735088
+Timestamp: 2025-09-18 00:00:14.311019
 
 Status: FAILED!
 Reason: Unable to run Furniture.py
 Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 14, in <module>
-    print(f"Sale Price: ${sale_price:.2f}")
-                          ^^^^^^^^^^
-NameError: name 'sale_price' is not defined
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 16, in <module>
+    print(f"Sale Profit: ${sale_profit:.2f}")
+                           ^^^^^^^^^^^
+NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
 
-Timestamp: 2025-09-17 23:58:14.735166
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 9, in <module>
-    print(f'Sale Price: ${sale_price:.2f}')
-                          ^^^^^^^^^^
-NameError: name 'sale_price' is not defined
-
-Timestamp: 2025-09-17 23:58:14.837430
+Timestamp: 2025-09-18 00:00:14.311141
 
 Status: FAILED!
 Reason: Unable to run tempFurniture.py
 Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 9, in <module>
-    print(f'Sale Price: ${sale_price:.2f}')
-                          ^^^^^^^^^^
-NameError: name 'sale_price' is not defined
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 11, in <module>
+    print(f'Sale Profit: ${sale_profit:.2f}')
+                           ^^^^^^^^^^^
+NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
 
-Timestamp: 2025-09-17 23:58:14.837497
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 9, in <module>
-    print(f'Sale Price: ${sale_price:.2f}')
-                          ^^^^^^^^^^
-NameError: name 'sale_price' is not defined
-
-Timestamp: 2025-09-17 23:58:14.943483
+Timestamp: 2025-09-18 00:00:14.471259
 
 Status: FAILED!
 Reason: Unable to run tempFurniture.py
 Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 9, in <module>
-    print(f'Sale Price: ${sale_price:.2f}')
-                          ^^^^^^^^^^
-NameError: name 'sale_price' is not defined
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 11, in <module>
+    print(f'Sale Profit: ${sale_profit:.2f}')
+                           ^^^^^^^^^^^
+NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
 
-Timestamp: 2025-09-17 23:58:14.943552
+Timestamp: 2025-09-18 00:00:14.471364
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 11, in <module>
+    print(f'Sale Profit: ${sale_profit:.2f}')
+                           ^^^^^^^^^^^
+NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
+
+Timestamp: 2025-09-18 00:00:14.600171
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 11, in <module>
+    print(f'Sale Profit: ${sale_profit:.2f}')
+                           ^^^^^^^^^^^
+NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
+
+Timestamp: 2025-09-18 00:00:14.600251
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2025-09-17 23:58:14.943899
+Timestamp: 2025-09-18 00:00:14.600607
