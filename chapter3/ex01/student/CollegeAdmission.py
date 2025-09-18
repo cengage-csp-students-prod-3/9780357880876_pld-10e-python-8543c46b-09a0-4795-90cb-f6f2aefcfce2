@@ -6,7 +6,7 @@
 
 # Get input and convert to correct data type
 testScoreString = input ("Enter student's test score: ")
-test_score = int (testScoreString)
+test_score = int (testScoreString
 classRankString = input ("enter student's class Rank:")
 class_rank = int (classRankString)
 # Test using admission requirements and print Accept or Reject
