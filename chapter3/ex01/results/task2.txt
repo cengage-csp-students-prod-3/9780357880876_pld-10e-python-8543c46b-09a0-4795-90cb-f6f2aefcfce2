@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Write the statements to convert the input strings to int types.
-Reason: Unable to find '<my_var> = int(my_string)' in the program. 
-Error : str - AssertionError
-Timestamp: 2025-09-18 01:20:28.165370
+Reason: <my_var> = int(my_string) was found in the program output.None
+Timestamp: 2025-09-18 01:22:48.942273
