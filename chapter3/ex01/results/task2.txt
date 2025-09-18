@@ -4,4 +4,4 @@ Check: 1
 Test: Write the statements to convert the input strings to int types.
 Reason: Unable to find '<my_var> = int(my_string)' in the program. 
 Error : str - AssertionError
-Timestamp: 2025-09-18 01:16:30.967959
+Timestamp: 2025-09-18 01:17:43.375462
