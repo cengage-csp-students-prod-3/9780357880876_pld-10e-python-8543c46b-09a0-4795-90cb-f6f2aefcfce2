@@ -1,66 +1,24 @@
 
-Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex03/Payroll.py", line 7, in <module>
-    totalWithholding = stateTax + federalTa
-                                  ^^^^^^^^^
-NameError: name 'federalTa' is not defined. Did you mean: 'federalTax'?
+Status: PASSED!
+Check: 1
+Test: Calculate total withholding for a salary of $1250.00
+Reason: The total withholding of $431.25 was found in the program's output.None
+Timestamp: 2025-09-18 00:18:53.398897
 
-Timestamp: 2025-09-18 00:18:23.868953
+Status: PASSED!
+Check: 2
+Test: Calculate total withholding for a salary of $1500.00
+Reason: The total withholding of $517.5 was found in the program's output.None
+Timestamp: 2025-09-18 00:18:53.428614
 
-Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex03/Payroll.py", line 7, in <module>
-    totalWithholding = stateTax + federalTa
-                                  ^^^^^^^^^
-NameError: name 'federalTa' is not defined. Did you mean: 'federalTax'?
-
-Timestamp: 2025-09-18 00:18:23.869077
-
-Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex03/tempPayroll.py", line 6, in <module>
-    totalWithholding = stateTax + federalTa
-                                  ^^^^^^^^^
-NameError: name 'federalTa' is not defined. Did you mean: 'federalTax'?
-
-Timestamp: 2025-09-18 00:18:24.003787
-
-Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex03/tempPayroll.py", line 6, in <module>
-    totalWithholding = stateTax + federalTa
-                                  ^^^^^^^^^
-NameError: name 'federalTa' is not defined. Did you mean: 'federalTax'?
-
-Timestamp: 2025-09-18 00:18:24.003867
-
-Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex03/tempPayroll.py", line 6, in <module>
-    totalWithholding = stateTax + federalTa
-                                  ^^^^^^^^^
-NameError: name 'federalTa' is not defined. Did you mean: 'federalTax'?
-
-Timestamp: 2025-09-18 00:18:24.127975
-
-Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex03/tempPayroll.py", line 6, in <module>
-    totalWithholding = stateTax + federalTa
-                                  ^^^^^^^^^
-NameError: name 'federalTa' is not defined. Did you mean: 'federalTax'?
-
-Timestamp: 2025-09-18 00:18:24.128050
+Status: PASSED!
+Check: 3
+Test: Calculate total withholding for a salary of $2000.00
+Reason: The total withholding of $690was found in the program's output.None
+Timestamp: 2025-09-18 00:18:53.457646
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2025-09-18 00:18:24.128400
+Timestamp: 2025-09-18 00:18:53.458027
