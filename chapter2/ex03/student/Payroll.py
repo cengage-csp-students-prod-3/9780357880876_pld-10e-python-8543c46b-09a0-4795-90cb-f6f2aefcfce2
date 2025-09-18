@@ -4,7 +4,7 @@ numDependents = 2
 stateTax = .065 * salary
 federalTax = .28 * salary
 dependentDeduction = .025 * salary *numDependents
-totalWithholding = stateTax + federalTax
+totalWithholding = stateTax + federalTa
 takeHomePay = salary - totalWithholding + dependentDeduction
 
 # Calculate state tax here.
