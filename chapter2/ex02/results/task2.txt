@@ -1,66 +1,24 @@
 
-Status: FAILED!
-Reason: Unable to run Furniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 8, in <module>
-    sale_profit = sale_price - wholesale_pric
-                               ^^^^^^^^^^^^^^
-NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
+Status: PASSED!
+Check: 1
+Test: Calculate the sale price as 25 percent deducted from the retail price of $325.
+Reason: The correct sale price of $243.75 was found in the program's output.None
+Timestamp: 2025-09-18 00:04:53.210725
 
-Timestamp: 2025-09-18 00:03:47.976009
+Status: PASSED!
+Check: 2
+Test: Calculate the sale price as 25 percent deducted from the retail price of $821.34.
+Reason: The correct sale price of $616.00 was found in the program's output.None
+Timestamp: 2025-09-18 00:04:53.229922
 
-Status: FAILED!
-Reason: Unable to run Furniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 8, in <module>
-    sale_profit = sale_price - wholesale_pric
-                               ^^^^^^^^^^^^^^
-NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
-
-Timestamp: 2025-09-18 00:03:47.976132
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 6, in <module>
-    sale_profit = sale_price - wholesale_pric
-                               ^^^^^^^^^^^^^^
-NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
-
-Timestamp: 2025-09-18 00:03:48.084855
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 6, in <module>
-    sale_profit = sale_price - wholesale_pric
-                               ^^^^^^^^^^^^^^
-NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
-
-Timestamp: 2025-09-18 00:03:48.084929
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 6, in <module>
-    sale_profit = sale_price - wholesale_pric
-                               ^^^^^^^^^^^^^^
-NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
-
-Timestamp: 2025-09-18 00:03:48.192683
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 6, in <module>
-    sale_profit = sale_price - wholesale_pric
-                               ^^^^^^^^^^^^^^
-NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
-
-Timestamp: 2025-09-18 00:03:48.192764
+Status: PASSED!
+Check: 3
+Test: Calculate the sale price as 25 percent deducted from the retail price of $999.99.
+Reason: The correct sale price of $749.993 was found in the program's output.None
+Timestamp: 2025-09-18 00:04:53.248530
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2025-09-18 00:03:48.193153
+Timestamp: 2025-09-18 00:04:53.248775
