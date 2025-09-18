@@ -1,8 +1,11 @@
 # This program calculates an employee's take home pay.
-
-
 salary = 1250.00
 numDependents = 2
+stateTax = .065 * salary
+federalTax = .28 * salary
+dependentDeduction = .025 * salary *numDependents
+totalWithholding = stateTax + federalTax
+takeHomePay = salary - totalWithholding + dependentDeduction
 
 # Calculate state tax here.
 
