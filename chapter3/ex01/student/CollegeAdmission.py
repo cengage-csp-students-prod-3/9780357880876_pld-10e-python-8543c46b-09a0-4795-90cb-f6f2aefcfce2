@@ -5,17 +5,15 @@
 """
 
 # Get input and convert to correct data type
-
-test_score = 0
-class_rank = 0 
-print ("Enter Student's test score:")
-test_score=input()
-print ("Enter student's class rank:")
-class_rank = input()
+testScoreString = input ("Enter student's test score: ")
+test_score = int (testScoreString)
+classRankString = input ("enter student's class Rank:")
+class_rank = int (classRankString)
 # Test using admission requirements and print Accept or Reject
-if test_score  >= 90:
 
-	if  class_rank >= 25:
+if test_score >= 90 :
+
+	if  class_rank >= 25 :
 		print("Accept")
 	else:
 		print("Reject")
