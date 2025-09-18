@@ -1,66 +1,24 @@
 
-Status: FAILED!
-Reason: Unable to run Furniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 16, in <module>
-    print(f"Sale Profit: ${sale_profit:.2f}")
-                           ^^^^^^^^^^^
-NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
+Status: PASSED!
+Check: 1
+Test: Calculate the profit when the wholesale price is $200.00 and the retail price is $325.00.
+Reason: The correct profit of $125 was found in the program's output.None
+Timestamp: 2025-09-18 00:03:14.027374
 
-Timestamp: 2025-09-18 00:00:14.311019
+Status: PASSED!
+Check: 2
+Test: Calculate the profit when the wholesale price is $576.83 and the retail price is $821.34.
+Reason: The correct profit of $244.51 was found in the program's output.None
+Timestamp: 2025-09-18 00:03:14.056771
 
-Status: FAILED!
-Reason: Unable to run Furniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 16, in <module>
-    print(f"Sale Profit: ${sale_profit:.2f}")
-                           ^^^^^^^^^^^
-NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
-
-Timestamp: 2025-09-18 00:00:14.311141
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 11, in <module>
-    print(f'Sale Profit: ${sale_profit:.2f}')
-                           ^^^^^^^^^^^
-NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
-
-Timestamp: 2025-09-18 00:00:14.471259
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 11, in <module>
-    print(f'Sale Profit: ${sale_profit:.2f}')
-                           ^^^^^^^^^^^
-NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
-
-Timestamp: 2025-09-18 00:00:14.471364
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 11, in <module>
-    print(f'Sale Profit: ${sale_profit:.2f}')
-                           ^^^^^^^^^^^
-NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
-
-Timestamp: 2025-09-18 00:00:14.600171
-
-Status: FAILED!
-Reason: Unable to run tempFurniture.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 11, in <module>
-    print(f'Sale Profit: ${sale_profit:.2f}')
-                           ^^^^^^^^^^^
-NameError: name 'sale_profit' is not defined. Did you mean: 'sale_price'?
-
-Timestamp: 2025-09-18 00:00:14.600251
+Status: PASSED!
+Check: 3
+Test: Calculate the profit when the wholesale price is $1398.37 and the retail price is $999.99.
+Reason: The correct loss of $-398.38 was found in the program's output.None
+Timestamp: 2025-09-18 00:03:14.084662
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2025-09-18 00:00:14.600607
+Timestamp: 2025-09-18 00:03:14.084931
