@@ -3,7 +3,7 @@ salary = 1250.00
 numDependents = 2
 stateTax = .065 * salary
 federalTax = .28 * salary
-dependentDeduction = .025 * salary *numDependent
+dependentDeduction = .025 * salary *numDependents
 totalWithholding = stateTax + federalTax
 takeHomePay = salary - totalWithholding + dependentDeduction
 
