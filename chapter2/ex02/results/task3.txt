@@ -1,0 +1,66 @@
+
+Status: FAILED!
+Reason: Unable to run Furniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 8, in <module>
+    sale_profit = sale_price - wholesale_pric
+                               ^^^^^^^^^^^^^^
+NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
+
+Timestamp: 2025-09-18 00:05:28.111936
+
+Status: FAILED!
+Reason: Unable to run Furniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/Furniture.py", line 8, in <module>
+    sale_profit = sale_price - wholesale_pric
+                               ^^^^^^^^^^^^^^
+NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
+
+Timestamp: 2025-09-18 00:05:28.112048
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 6, in <module>
+    sale_profit = sale_price - wholesale_pric
+                               ^^^^^^^^^^^^^^
+NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
+
+Timestamp: 2025-09-18 00:05:28.232085
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 6, in <module>
+    sale_profit = sale_price - wholesale_pric
+                               ^^^^^^^^^^^^^^
+NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
+
+Timestamp: 2025-09-18 00:05:28.232154
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 6, in <module>
+    sale_profit = sale_price - wholesale_pric
+                               ^^^^^^^^^^^^^^
+NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
+
+Timestamp: 2025-09-18 00:05:28.333882
+
+Status: FAILED!
+Reason: Unable to run tempFurniture.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter2/ex02/tempFurniture.py", line 6, in <module>
+    sale_profit = sale_price - wholesale_pric
+                               ^^^^^^^^^^^^^^
+NameError: name 'wholesale_pric' is not defined. Did you mean: 'wholesale_price'?
+
+Timestamp: 2025-09-18 00:05:28.333974
+
+Status: PASSED!
+Check: 4
+Test: Checking the program for hardcoded answers.
+Reason: None
+Timestamp: 2025-09-18 00:05:28.334302
