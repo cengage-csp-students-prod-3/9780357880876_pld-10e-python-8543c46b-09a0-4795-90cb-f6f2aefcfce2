@@ -28,4 +28,4 @@ else:
     bonus = bonus_4
 # Output.
 print("Employee Name:", employee_name)
-print("Employee Bonus: $",bonus)
+print("Employee Bonus: $",bonus ) # type: ignore
