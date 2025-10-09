@@ -18,10 +18,12 @@ dollar_value = float(dollar_string)
 score = dollar_value / num_transactions / num_shifts
 if score  <= 30:
     bonus = bonus_1
-elif score > 30 and score < 70:
-    bonus= bonus_2
-elif score > 69 and score < 200:
-    bonus = bonus_3
+elif score > 30: 
+    if score < 70:
+        bonus= bonus_2
+elif score > 69 :
+    if score < 200:
+        bonus = bonus_3
 else:
     bonus = bonus_4
 # Output.
