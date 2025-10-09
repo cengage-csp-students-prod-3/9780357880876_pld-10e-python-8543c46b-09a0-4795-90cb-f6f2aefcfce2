@@ -1,0 +1,38 @@
+
+Status: PASSED!
+Check: 1
+Test: The program calculates the end-of-year bonus for a performance rating of 1.
+Reason: None
+Timestamp: 2025-10-09 03:09:58.147052
+
+Status: PASSED!
+Check: 2
+Test: The program calculates the end-of-year bonus for a performance rating of 2.
+Reason: None
+Timestamp: 2025-10-09 03:09:58.174703
+
+Status: PASSED!
+Check: 3
+Test: The program calculates the end-of-year bonus for a performance rating of 3.
+Reason: None
+Timestamp: 2025-10-09 03:09:58.195207
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus2.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex04/EmployeeBonus2.py", line 31, in <module>
+    print(f"Employee Bonus: ${employee_bonus:.2f}")
+                              ^^^^^^^^^^^^^^
+NameError: name 'employee_bonus' is not defined. Did you mean: 'employee_name'?
+
+Timestamp: 2025-10-09 03:09:58.309242
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus2.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex04/EmployeeBonus2.py", line 31, in <module>
+    print(f"Employee Bonus: ${employee_bonus:.2f}")
+                              ^^^^^^^^^^^^^^
+NameError: name 'employee_bonus' is not defined. Did you mean: 'employee_name'?
+
+Timestamp: 2025-10-09 03:09:58.309323
