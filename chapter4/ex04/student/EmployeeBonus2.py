@@ -16,6 +16,13 @@ employee_salary = float(salary_string)
 employee_rating = int(rating_string)
 
 # Use match statement here to calculate bonus based on rating.
+match employee_rating:
+    case 1 : 
+        employee_bonus = employee_salary * bonus_1
+    case 2 : 
+        employee_bonus = employee_salary * bonus_2
+    case 3 :
+        employee_bonus = employee_salary * bonus_3
 
 # Output.
 print("Employee Name: ", employee_name)
