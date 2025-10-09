@@ -15,7 +15,7 @@ num_transactions = float(transact_string)
 dollar_value = float(dollar_string)
 
 # Write your code here
-score = dollar_value / num_transactions / num_shifts
+score = (dollar_value / num_transactions) / num_shifts
 if score  <= 30:
     bonus = bonus_1
 elif score >= 29: 
