@@ -1,34 +1,35 @@
 
 
-# EmployeeBonus.py - This program calculates 
-# initialize variables here.
-bonus_1 = 50.00
-bonus_2 = 75.00
-bonus_3 = 100.00
-bonus_4 = 200.00
-bonus = 0
-employee_name = input("Enter employee's name: ")
-shift_string = input("Enter number of shifts: ")
-transact_string = input("Enter number of transactions: ")
-dollar_string = input("Enter transactions dollar value: ")
 
-num_shifts = float(shift_string)
-num_transactions = float(transact_string)
-dollar_value = float(dollar_string)
 
-# Write your code here
-score = dollar_value / num_transactions / num_shifts
-if score  <= 30:
-    bonus = bonus_1
-elif score > 30: 
-    if score < 70:
-        bonus= bonus_2
-elif score > 69 :
-    if score < 200:
-        bonus = bonus_3
-else: 
-    bonus= bonus_4
-    
-# Output.
-print("Employee Name:", employee_name)
+BONUS_1 = 50
+BONUS_2 = 75
+BONUS_3 = 100
+BONUS_4 = 200
+
+
+
+# Get input from the user
+employee_name = input("Employee’s name: ")
+number_of_shifts = int(input("Number of Shifts: "))
+number_of_transactions = int(input("Number of transactions: "))
+dollar_value = float(input("Transaction dollar value: "))
+
+# Calculate productivity score
+productivity_score = dollar_value / (number_of_transactions * number_of_shifts)
+
+# Determine bonus using nested if statements
+if productivity_score <= 30:
+    bonus = BONUS_1
+else:
+    if productivity_score < 70:
+        bonus = BONUS_2
+    else:
+        if productivity_score < 200:
+            bonus = BONUS_3
+        else:
+            bonus = BONUS_4
+
+# Display the results
+print("Employee Name: " + employee_name)
 print(f"Employee Bonus: ${bonus:.2f}")
