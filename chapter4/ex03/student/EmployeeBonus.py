@@ -24,8 +24,9 @@ elif score > 30:
 elif score > 69 :
     if score < 200:
         bonus = bonus_3
-else:
-    bonus = bonus_4
+else: 
+    bonus= bonus_4
+    
 # Output.
 print("Employee Name:", employee_name)
-print("Employee Bonus: " , bonus)
+print(f"Employee Bonus: ${bonus:.2f}")
