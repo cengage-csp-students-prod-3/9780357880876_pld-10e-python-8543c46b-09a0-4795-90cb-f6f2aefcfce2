@@ -7,7 +7,7 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:22:49.533762
+Timestamp: 2025-10-09 02:34:55.356391
 
 Status: FAILED!
 Check: 2
@@ -17,7 +17,7 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:22:49.561877
+Timestamp: 2025-10-09 02:34:55.373309
 
 Status: FAILED!
 Check: 3
@@ -27,13 +27,13 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:22:49.588690
+Timestamp: 2025-10-09 02:34:55.390419
 
 Status: PASSED!
 Check: 4
 Test: greater than or equal to 200 productivity score
 Reason: None
-Timestamp: 2025-10-09 02:22:49.606640
+Timestamp: 2025-10-09 02:34:55.407303
 
 Status: FAILED!
 Check: 5
@@ -43,7 +43,7 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:22:49.627668
+Timestamp: 2025-10-09 02:34:55.424180
 
 Status: FAILED!
 Check: 6
@@ -53,7 +53,7 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:22:49.645039
+Timestamp: 2025-10-09 02:34:55.441986
 
 Status: FAILED!
 Check: 7
@@ -63,7 +63,7 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:22:49.662122
+Timestamp: 2025-10-09 02:34:55.459771
 
 Status: FAILED!
 Check: 8
@@ -73,10 +73,10 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:22:49.679606
+Timestamp: 2025-10-09 02:34:55.476488
 
 Status: PASSED!
 Check: 9
 Test: edge case: 200 productivity score
 Reason: None
-Timestamp: 2025-10-09 02:22:49.697032
+Timestamp: 2025-10-09 02:34:55.493213
