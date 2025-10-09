@@ -1,23 +1,15 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: less than 30 productivity score
-Reason: Unable to find '['$50']' in the program's output.
-Enter employee's name: Enter number of shifts: Enter number of transactions: Enter transactions dollar value: Employee Name: John Smith
-Employee Bonus: $0.00
-.
-Error : AssertionError - 
-Timestamp: 2025-10-09 02:34:55.356391
+Reason: None
+Timestamp: 2025-10-09 02:40:45.226407
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: 31-69 productivity score
-Reason: Unable to find '['$75']' in the program's output.
-Enter employee's name: Enter number of shifts: Enter number of transactions: Enter transactions dollar value: Employee Name: Maria Nguyen
-Employee Bonus: $0.00
-.
-Error : AssertionError - 
-Timestamp: 2025-10-09 02:34:55.373309
+Reason: None
+Timestamp: 2025-10-09 02:40:45.243603
 
 Status: FAILED!
 Check: 3
@@ -27,33 +19,29 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:34:55.390419
+Timestamp: 2025-10-09 02:40:45.260358
 
-Status: PASSED!
+Status: FAILED!
 Check: 4
 Test: greater than or equal to 200 productivity score
-Reason: None
-Timestamp: 2025-10-09 02:34:55.407303
+Reason: Unable to find '['$200']' in the program's output.
+Enter employee's name: Enter number of shifts: Enter number of transactions: Enter transactions dollar value: Employee Name: Emily Kim
+Employee Bonus: $0.00
+.
+Error : AssertionError - 
+Timestamp: 2025-10-09 02:40:45.277098
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: edge case: 69 productivity score
-Reason: Unable to find '['$75']' in the program's output.
-Enter employee's name: Enter number of shifts: Enter number of transactions: Enter transactions dollar value: Employee Name: Robert Chen
-Employee Bonus: $0.00
-.
-Error : AssertionError - 
-Timestamp: 2025-10-09 02:34:55.424180
+Reason: None
+Timestamp: 2025-10-09 02:40:45.294067
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: edge case: 30 productivity score
-Reason: Unable to find '['$50']' in the program's output.
-Enter employee's name: Enter number of shifts: Enter number of transactions: Enter transactions dollar value: Employee Name: Sarah Johnson
-Employee Bonus: $0.00
-.
-Error : AssertionError - 
-Timestamp: 2025-10-09 02:34:55.441986
+Reason: None
+Timestamp: 2025-10-09 02:40:45.318396
 
 Status: FAILED!
 Check: 7
@@ -63,7 +51,7 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:34:55.459771
+Timestamp: 2025-10-09 02:40:45.344477
 
 Status: FAILED!
 Check: 8
@@ -73,10 +61,14 @@ Enter employee's name: Enter number of shifts: Enter number of transactions: Ent
 Employee Bonus: $0.00
 .
 Error : AssertionError - 
-Timestamp: 2025-10-09 02:34:55.476488
+Timestamp: 2025-10-09 02:40:45.370769
 
-Status: PASSED!
+Status: FAILED!
 Check: 9
 Test: edge case: 200 productivity score
-Reason: None
-Timestamp: 2025-10-09 02:34:55.493213
+Reason: Unable to find '['$200']' in the program's output.
+Enter employee's name: Enter number of shifts: Enter number of transactions: Enter transactions dollar value: Employee Name: Javier Gupta
+Employee Bonus: $0.00
+.
+Error : AssertionError - 
+Timestamp: 2025-10-09 02:40:45.396845
