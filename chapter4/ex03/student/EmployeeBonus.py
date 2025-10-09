@@ -4,7 +4,7 @@ bonus_1 = 50.00
 bonus_2 = 75.00
 bonus_3 = 100.00
 bonus_4 = 200.00
-
+bonus = 0
 employee_name = input("Enter employee's name: ")
 shift_string = input("Enter number of shifts: ")
 transact_string = input("Enter number of transactions: ")
@@ -28,4 +28,4 @@ else:
     bonus = bonus_4
 # Output.
 print("Employee Name:", employee_name)
-print("Employee Bonus: $",bonus ) # type: ignore
+print("Employee Bonus: " , bonus)
