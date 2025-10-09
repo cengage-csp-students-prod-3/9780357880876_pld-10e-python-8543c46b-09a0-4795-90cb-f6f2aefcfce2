@@ -22,7 +22,7 @@ elif score > 30:
     if score < 70:
         bonus= bonus_2
 elif score >= 70 :
-    if score < 199:
+    if score < 200:
         bonus = bonus_3
 else: 
     bonus= bonus_4
