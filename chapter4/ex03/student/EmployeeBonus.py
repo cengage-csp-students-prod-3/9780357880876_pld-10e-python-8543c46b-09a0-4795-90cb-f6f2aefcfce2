@@ -1,5 +1,4 @@
-# EmployeeBonus.py - This program calculates an employee's productivity bonus.
-
+# EmployeeBonus.py - This program calculates 
 # initialize variables here.
 bonus_1 = 50.00
 bonus_2 = 75.00
@@ -16,7 +15,15 @@ num_transactions = float(transact_string)
 dollar_value = float(dollar_string)
 
 # Write your code here
-
+score = dollar_value / num_transactions / num_shifts
+if score  <= 30:
+    bonus = bonus_1
+elif score > 30 and score <70:
+    bonus= bonus_2
+elif score > 69 and score < 200:
+    bonus = bonus_3
+else:
+    bonus = bonus_4
 # Output.
 print("Employee Name:", employee_name)
-print(f"Employee Bonus: ${bonus:.2f}")
+print("Employee Bonus: $", bonus)
