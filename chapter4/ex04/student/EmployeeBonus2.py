@@ -5,7 +5,7 @@ bonus_1 = .25
 bonus_2 = .15
 bonus_3 = .10
 no_bonus = 0.00
-
+employee_bonus = 0
 # Get user input.
 employee_name = input("Enter employee's name: ")
 salary_string = input("Enter employee's yearly salary: ")
