@@ -17,13 +17,13 @@ dollar_value = float(dollar_string)
 # Write your code here
 score = (dollar_value / num_transactions) / num_shifts
 if (score  >= 200):
-    bonus = bonus_4
-    if  (score <= 199):
-        bonus = bonus_3
+    bonus = bonus_4;
+    if (score <= 199):
+        bonus = bonus_3;
         if (score <= 69):
-            bonus = bonus_2
-            if (score <=30):
-                bonus= bonus_1
+            bonus = bonus_2;
+            if (score <= 30):
+                bonus = bonus_1;
     
 # Output.
 print("Employee Name:", employee_name)
