@@ -1,0 +1,124 @@
+
+Status: PASSED!
+Check: 1
+Test: less than 30 productivity score
+Reason: None
+Timestamp: 2025-10-09 01:26:17.041148
+
+Status: PASSED!
+Check: 2
+Test: 31-69 productivity score
+Reason: None
+Timestamp: 2025-10-09 01:26:17.067310
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.233281
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.233378
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.388883
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.388977
+
+Status: PASSED!
+Check: 5
+Test: edge case: 69 productivity score
+Reason: None
+Timestamp: 2025-10-09 01:26:17.416357
+
+Status: PASSED!
+Check: 6
+Test: edge case: 30 productivity score
+Reason: None
+Timestamp: 2025-10-09 01:26:17.443428
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.593492
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.593566
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.698230
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.698304
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.810808
+
+Status: FAILED!
+Reason: Unable to run EmployeeBonus.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter4/ex03/EmployeeBonus.py", line 31, in <module>
+    print("Employee Bonus: $",bonus)
+                              ^^^^^
+NameError: name 'bonus' is not defined. Did you mean: 'bonus_1'?
+
+Timestamp: 2025-10-09 01:26:17.810914
