@@ -1,0 +1,8 @@
+
+Status: FAILED!
+Check: 1
+Test: Write a nested if statements to control the `print()` statements.
+Reason: Unable to find 'A nested `if...elif...else`.' in the program. 
+Expected to find at least 3 instances, but found 2.
+Error : str - AssertionError
+Timestamp: 2025-10-22 05:24:08.739062
