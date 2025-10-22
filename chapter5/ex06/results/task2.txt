@@ -1,0 +1,2367 @@
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 21, in <module>
+    userNumber = int(stringNumber)
+                 ^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'Y'
+
+Timestamp: 2025-10-22 09:49:10.799671
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 21, in <module>
+    userNumber = int(stringNumber)
+                 ^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'Y'
+
+Timestamp: 2025-10-22 09:49:10.799804
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 21, in <module>
+    userNumber = int(stringNumber)
+                 ^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'N'
+
+Timestamp: 2025-10-22 09:49:10.956910
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 21, in <module>
+    userNumber = int(stringNumber)
+                 ^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'N'
+
+Timestamp: 2025-10-22 09:49:10.957060
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.126071
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.126163
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.292050
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.292149
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.432344
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.432422
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.545483
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.545572
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.663984
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.664092
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.781987
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.782089
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.899653
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:11.899750
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.019451
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.019529
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.131972
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.132089
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.246160
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.246229
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.358936
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.359034
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.471338
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.471431
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.583511
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.583588
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.702343
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.702442
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.820311
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.820398
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.938200
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:12.938293
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.055652
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.055729
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.172103
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.172184
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.284862
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.284931
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.397654
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.397721
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.512730
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.512801
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.630331
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.630425
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.747623
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.747718
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.864435
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.864526
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.979985
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:13.980086
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.091181
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.091251
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.205103
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.205182
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.318399
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.318486
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.435243
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.435329
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.552555
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.552646
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.673663
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.673766
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.791927
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.792046
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.906784
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:14.906875
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.019815
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.019886
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.134412
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.134490
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.247960
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.248069
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.360378
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.360454
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.474033
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.474127
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.591479
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.591557
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.704884
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.704955
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.822233
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.822313
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.939036
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:15.939125
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.054173
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.054241
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.168649
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.168734
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.281540
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.281609
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.396396
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.396469
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.508465
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.508533
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.624220
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.624309
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.742135
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.742229
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.855860
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.855942
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.969674
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:16.969748
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.083665
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.083784
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.197464
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.197533
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.311031
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.311102
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.424851
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.424923
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.537377
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.537450
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.657117
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.657203
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.781075
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.781167
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.899058
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:17.899156
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.014401
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.014477
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.125512
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.125574
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.236200
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.236266
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.348448
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.348524
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.460224
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.460293
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.574233
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.574306
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.691651
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.691732
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.810107
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.810190
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.929652
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:18.929741
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.046486
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.046576
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.162216
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.162286
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.275974
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.276073
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.389945
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.390042
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.502387
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.502455
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.617846
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.617937
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.733086
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.733168
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.844942
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.845041
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.957947
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:19.958045
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.072884
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.072981
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.188226
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.188303
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.299557
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.299625
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.413461
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.413535
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.526704
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.526780
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.645480
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.645570
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.761864
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.761945
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.877663
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.877738
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.992459
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:20.992531
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.104380
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.104446
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.216009
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.216082
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.327860
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.327920
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.444753
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.444823
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.555681
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.555752
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.669779
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.669866
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.785455
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.785539
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.900432
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:21.900505
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.014239
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.014310
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.128757
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.128832
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.246158
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.246256
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.358022
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.358099
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.472070
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.472140
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.586647
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.586739
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.705318
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.705389
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.820470
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.820542
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.934560
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:22.934632
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.047025
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.047102
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.160973
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.161065
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.273953
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.274052
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.386813
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.386895
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.498348
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.498421
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.614065
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.614145
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.729654
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.729725
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.844516
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.844598
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.959246
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:23.959324
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:24.072688
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:24.072770
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:24.185417
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:24.185484
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:24.298382
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 20, in <module>
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:24.298449
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:24.410811
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/9780357880876_pld-10e-python-8543c46b-09a0-4795-90cb-f6f2aefcfce2/python/chapter5/ex06/GuessNumber.py", line 36, in <module>
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+Timestamp: 2025-10-22 09:49:24.410882
+
+Status: FAILED!
+Check: 3
+Test: The program generates a different random number for each run.
+Reason: The correct number does not appear to be random.
+Error : AssertionError - 
+Timestamp: 2025-10-22 09:49:24.411038
