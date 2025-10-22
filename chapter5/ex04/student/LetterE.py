@@ -7,15 +7,15 @@ num_across = 3  # Number of asterisks to print across.
 num_down = 5    # Number of asterisks to print down.
 
 # Write a loop to control the number of rows.
-for row in range(num_down):
+for d in range(num_down):
     # Write a loop to control the number of columns.
-    for col in range(num_across):
+    for a in range(num_across):
         # Decide when to print an asterisk or a space based on row and column.
-        if col ==  0:
+        if a ==  0:
             print("*", end="")
         else:
             # For all other cases, print a space.
-            if row ==0 or row == num_down // 2 or row == num_down -1:
+            if d ==0 or d == num_down // 2 or d == num_down -1:
                 print("*", end="")
             else:
                 print(" ", end = " ")
