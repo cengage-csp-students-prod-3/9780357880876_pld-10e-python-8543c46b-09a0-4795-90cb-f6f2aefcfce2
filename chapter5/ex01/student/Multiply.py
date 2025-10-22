@@ -6,22 +6,26 @@
 head1 = "Number:"
 head2 = "Multiplied by 2:"
 head3 = "Multiplied by 10:"
-
+byTwo = 0
+byTen = 0
 # number used to control loop.
-MAX_NUM = 10
+numberCounter =0
 
 print("0 through 10 multiplied by 2 and by 10" + "\n")
 
 # Initialize loop control variable.
 
+
 # Write your counter controlled while loop here
-
+while numberCounter <=10:
 # Multiply by 2
-
+    byTwo = numberCounter * 2
 # Multiply by 10
+    byTen = numberCounter *10
+    
+    print(head1, numberCounter)
+    print(head2, byTwo)
+    print(head3, byTen)
 
-print(head1, numberCounter)
-print(head2, byTwo)
-print(head3, byTen)
-
+    numberCounter += 1
 # Next number.
