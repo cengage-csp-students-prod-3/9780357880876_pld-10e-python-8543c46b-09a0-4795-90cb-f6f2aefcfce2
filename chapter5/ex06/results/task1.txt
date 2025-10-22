@@ -3,6 +3,6 @@ Status: FAILED!
 Check: 1
 Test: Implement `while` loops where indicated.
 Reason: Unable to find '`while`' in the program. 
-Expected to find at least 3 instances, but found 1.
+Expected to find at least 3 instances, but found 2.
 Error : str - AssertionError
-Timestamp: 2025-10-22 09:36:24.038736
+Timestamp: 2025-10-22 09:47:56.986759
