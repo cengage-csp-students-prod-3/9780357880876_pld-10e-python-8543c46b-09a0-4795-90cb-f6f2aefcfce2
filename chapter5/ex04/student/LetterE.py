@@ -11,11 +11,14 @@ for row in range(num_down):
     # Write a loop to control the number of columns.
     for col in range(num_across):
         # Decide when to print an asterisk or a space based on row and column.
-        if col == 0 or row == 0 or row == num_down // 2 or row == num_down - 1:
+        if col ==  0:
             print("*", end="")
         else:
             # For all other cases, print a space.
-            print(" ", end="")
+            if row ==0 or row == num_down // 2 or row == num_down -1:
+                print("*", end="")
+            else:
+                print(" ", end = " ")
 
     # Place this statement that prints a newline after the inner loop finishes.
     print()
