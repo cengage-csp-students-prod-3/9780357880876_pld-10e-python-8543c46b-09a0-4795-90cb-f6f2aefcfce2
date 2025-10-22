@@ -5,13 +5,18 @@
 
 totalStars = 0  # total of star ratings.
 numPatrons = 0  # keep track of number of patrons
-
 # Get input.
-
+numStarsInput = int (input("Enter rating for featured movie:"))
 # Convert to int.
 
 # Write while loop here
+while numStarsInput >= 0 :   
+        totalStars += numStarsInput 
+        numPatrons += 1
+        numStarsInput = int (input("Enter rating for featured movie:"))
 
+totalStars = totalStars / numPatrons
+print("Average Star Value:", totalStars)
 # Calculate average star rating
 
-print("Average Star Value:", averageStars)
+
