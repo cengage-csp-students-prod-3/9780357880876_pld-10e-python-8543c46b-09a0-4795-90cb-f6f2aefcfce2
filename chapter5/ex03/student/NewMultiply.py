@@ -13,3 +13,7 @@ MAX_NUM = 10
 print("0 through 10 multiplied by 2 and by 10\n")
 
 # Write a for loop
+for s in range (11):
+    print(head1, s)
+    print(head2 , s*2)
+    print(head3, s*10)
