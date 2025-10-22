@@ -16,8 +16,8 @@ while keepGoing != "Y" and keepGoing !="N":
 # Enter loop if they want to play.
 while keepGoing == "Y" :
     # Get user's guess.
-    userNumber = int(input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 "))
-
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
+    userNumber = int(stringNumber)
     
     if userNumber >10 or userNumber < 1:
         print ("Number must be in the range of 1-10: Please try again. ")
