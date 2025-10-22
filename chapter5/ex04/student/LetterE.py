@@ -7,20 +7,20 @@ num_across = 3  # Number of asterisks to print across.
 num_down = 5  # Number of asterisks to print down.
 
 # Write a loop to control the number of rows.
-
+for s in range(num_down):
 # Write a loop to control the number of columns
-
+    for n in range(num_across):
 # Decide when to print an asterisk in every column.
-
-print("*", end="")
+        if s ==0 or s == 2 or s == 4:
+            print("*", end="")
 
 # Decide when to print asterisk in column 1.
-
-print("*", end="")
+        elif n == 0:
+            print("*", end="")
 
 # Decide when to print a space instead of an asterisk.
-
-print(" ", end="")
+        else:
+            print(" ", end="")
 
 # Figure out where to place this statement that prints a newline.
 
