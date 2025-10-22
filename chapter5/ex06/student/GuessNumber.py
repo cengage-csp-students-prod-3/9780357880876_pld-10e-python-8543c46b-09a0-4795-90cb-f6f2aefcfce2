@@ -7,12 +7,15 @@ from random import randint
 number = randint(1, 10) # Generate random number.
 validRange = (1,11)
 # Prime the loop.
-keepGoing = input("Do you want to guess a number? Enter Y or N  ")
+keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
+while keepGoing != "Y" and keepGoing !="N":
+    print ("Choice invalid, please choose a valid entry. ")
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
 
-# Validate input.
+    # Validate input.
 
 # Enter loop if they want to play.
-while keepGoing == "Y":
+while keepGoing == "Y" or "y":
     # Get user's guess.
     stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
     userNumber = int(stringNumber)
@@ -27,8 +30,10 @@ while keepGoing == "Y":
         print("You are a genius. That's correct!")
 
     else:
-        keepGoing = input("That's not correct. Do you want to guess again? Enter Y or N")
-
+        keepGoing = input("That's not correct. Do you want to guess again? Enter Y or N ")
+    if keepGoing != "y" and keepGoing != "Y" and keepGoing != "N" and keepGoing != "n":
+         print ("Choice invalid, please choose a valid entry. ")
+    keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
         # Validate input.
 
 # End of while loop.
