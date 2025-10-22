@@ -20,7 +20,7 @@ while keepGoing == "Y" :
     userNumber = int(stringNumber)
     
     if userNumber >10 or userNumber < 1:
-        print ("Number must be in the range of 1 to 10: Please try again. ")
+        print ("Number must be in the range of 1 to 10: Please try again: ")
     # Validate input.
 
     # Test to see if the user guessed correctly.
