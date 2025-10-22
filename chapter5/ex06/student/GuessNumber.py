@@ -37,5 +37,5 @@ while keepGoing == "Y" :
         # Validate input.
 while keepGoing =="N":
         print("excellent game, come back again.")
-
+        break
 # End of while loop.
