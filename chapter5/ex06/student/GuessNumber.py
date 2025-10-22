@@ -5,18 +5,20 @@
 from random import randint
 
 number = randint(1, 10) # Generate random number.
-
+validRange = (1,11)
 # Prime the loop.
-keepGoing = input("Do you want to guess a number? Enter Y or N")
+keepGoing = input("Do you want to guess a number? Enter Y or N  ")
 
 # Validate input.
 
 # Enter loop if they want to play.
 while keepGoing == "Y":
     # Get user's guess.
-    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10")
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10 ")
     userNumber = int(stringNumber)
-
+    
+    if userNumber >10 or userNumber < 1:
+        print ("Choice invalid, please choose a valid number. ")
     # Validate input.
 
     # Test to see if the user guessed correctly.
