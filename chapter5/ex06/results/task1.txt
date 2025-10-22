@@ -1,0 +1,8 @@
+
+Status: FAILED!
+Check: 1
+Test: Implement `while` loops where indicated.
+Reason: Unable to find '`while`' in the program. 
+Expected to find at least 3 instances, but found 1.
+Error : str - AssertionError
+Timestamp: 2025-10-22 09:22:55.175406
