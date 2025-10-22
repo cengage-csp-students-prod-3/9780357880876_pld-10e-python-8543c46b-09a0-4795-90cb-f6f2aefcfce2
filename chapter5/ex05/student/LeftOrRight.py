@@ -5,11 +5,21 @@
 
 rightTotal = 0  # Number of right-handed students.
 leftTotal = 0  # Number of left-handed students.
-
-leftOrRight = input("Enter L if you are left-handed, R if you are right-handed or X to quit: ")
+X = str("X")
+leftOrRight = str(input("Enter L if you are left-handed, R if you are right-handed or X to quit: "))
 
 # Write your loop here.
+while leftOrRight != X:
+    if leftOrRight == ("L"):
+        leftTotal += 1
+        leftOrRight = input("Enter L if you are left-handed, R if you are right-handed or X to quit: ")
 
+    else: 
+        rightTotal +=1
+        leftOrRight = input("Enter L if you are left-handed, R if you are right-handed or X to quit: ")
+
+
+    
 # Output number of left or right-handed students.
 print("Number of left-handed students:", leftTotal)
 print("Number of right-handed students:", rightTotal)
