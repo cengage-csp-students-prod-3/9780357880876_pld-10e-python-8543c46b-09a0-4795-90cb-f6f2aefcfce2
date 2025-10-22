@@ -11,17 +11,19 @@ for s in range(num_down):
 # Write a loop to control the number of columns
     for n in range(num_across):
 # Decide when to print an asterisk in every column.
-        if s ==0 or s == 2 or s == 4:
+        if s == 0 or s == 2 or s == 4:
             print("*", end="")
+            
+            print()
 
 # Decide when to print asterisk in column 1.
         elif n == 0:
             print("*", end="")
+            
+            
 
 # Decide when to print a space instead of an asterisk.
         else:
             print(" ", end="")
 
 # Figure out where to place this statement that prints a newline.
-
-print()
