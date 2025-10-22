@@ -3,17 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Write the nested loops to control the number of rows and columns.
 Reason: A nested `for...in` or `while` loop. was found in the program output.None
-Timestamp: 2025-10-22 05:13:11.574337
+Timestamp: 2025-10-22 05:23:25.475742
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The program prints the letter E using `*`.
-Reason: Unable to find '['the letter E formatted corrected using `*`.']' in the program's output.
-**** 
- 
-**** 
- 
-***
-.
-Error : AssertionError - 
-Timestamp: 2025-10-22 05:13:11.593522
+Reason: None
+Timestamp: 2025-10-22 05:23:25.497506
