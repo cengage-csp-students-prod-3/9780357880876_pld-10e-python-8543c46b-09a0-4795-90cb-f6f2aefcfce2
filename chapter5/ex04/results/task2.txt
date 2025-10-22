@@ -3,4 +3,4 @@ Status: PASSED!
 Check: 1
 Test: Write a nested if statements to control the `print()` statements.
 Reason: A nested `if...elif...else`. was found in the program output.None
-Timestamp: 2025-10-22 05:27:23.003659
+Timestamp: 2025-10-22 05:30:04.957199
