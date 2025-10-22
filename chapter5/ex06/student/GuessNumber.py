@@ -35,7 +35,7 @@ while keepGoing == "Y" :
          print ("Choice invalid, please choose a valid entry. ")
          keepGoing = str(input("Do you want to guess a number? Enter Y or N  "))
         # Validate input.
-else:
+while keepGoing =="N":
         print("excellent game, come back again.")
 
 # End of while loop.
