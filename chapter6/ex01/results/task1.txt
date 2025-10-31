@@ -1,0 +1,33 @@
+
+Status: FAILED!
+Check: 1
+Test: .299, .157, .242, .203, .198, .333, .270, .190
+Reason: Unable to find '['minimum batting average, maximum batting average, and average batting average.']' in the program's output.
+Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Minimum batting average is  0.157
+Maximum batting average is  0.333
+Average batting average is  1.892
+.
+Error : AssertionError - 
+Timestamp: 2025-10-31 15:30:01.369346
+
+Status: FAILED!
+Check: 2
+Test: .268, .186, .311, .245, .212, .294, .256, .201
+Reason: Unable to find '['minimum batting average, maximum batting average, and average batting average.']' in the program's output.
+Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Minimum batting average is  0.186
+Maximum batting average is  0.311
+Average batting average is  1.973
+.
+Error : AssertionError - 
+Timestamp: 2025-10-31 15:30:01.387461
+
+Status: FAILED!
+Check: 3
+Test: .321, .175, .239, .281, .229, .303, .278, .215
+Reason: Unable to find '['minimum batting average, maximum batting average, and average batting average.']' in the program's output.
+Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Enter a batting average Minimum batting average is  0.175
+Maximum batting average is  0.321
+Average batting average is  2.041
+.
+Error : AssertionError - 
+Timestamp: 2025-10-31 15:30:01.405308
