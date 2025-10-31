@@ -11,9 +11,15 @@ foundIt = False  # Flag variable.
 inCity = input("Enter name of city: ")
 
 		# Write your loop here.
-
+for i in citiesInMichigan:
+	if inCity == i:
 			# Write your test statement here to see if there is
+	
 			# a match. Set the flag to true if city is found.
-
+		foundIt=True
+if foundIt:
+	print("City found.")
+else:
+	print("Not a city in Michigan.")
 		# Test to see if city was not found to determine if
 		# "Not a city in Michigan." message should be printed.
