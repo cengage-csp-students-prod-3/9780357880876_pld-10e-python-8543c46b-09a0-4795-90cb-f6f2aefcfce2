@@ -3,14 +3,14 @@
 numList = 8
 
 # Initialize list here.
-average = []
+averages = []
 averageAll=0
 
 # Write a loop to get batting averages from user and add to list.
 for i in range(numList):
     battingAverageString = input(str("Enter a batting average "))
     battingAverageFloat = float(battingAverageString)
-    average.append(battingAverageFloat)
+    averages.append(battingAverageFloat)
 
 
 
@@ -19,9 +19,9 @@ for i in range(numList):
 
 # Assign the first element in the list to be the minimum and the maximum.
 
-min = average[0]
+min = averages[0]
 
-max = average[0]
+max = averages[0]
 
 
 # Start out your total initialized to 0.
@@ -29,7 +29,7 @@ max = average[0]
 total = 0 
 
 # Write a loop here to access list values starting with averages[1]
-for i in average:
+for i in averages:
     if i < min:
         min = i
     if i > max:
@@ -41,13 +41,13 @@ for i in average:
 
     # Within the loop test for minimum and maximum batting averages.
 
-
+averageAll = total / numList
     # Also accumulate a total of all batting averages.
 
 
 print("Minimum batting average is " , min)
 print("Maximum batting average is " , max)
-print("Average batting average is ", total)
+print("Average batting average is ", averageAll)
 
 # Calculate the average of the 8 averages.
 
