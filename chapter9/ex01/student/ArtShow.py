@@ -3,13 +3,7 @@
 # Input:  Interactive.
 # Output:  A statement telling the user if they get a discount or no discount.
 
-def main():
 
-		registerString = input("Did you preregister? Enter Y or N: ")
-		if	registerString == "Y":
-			discount()
-		else:
-			nodiscount()
 
 def discount():
 	print("You are pre-registered and qualify for a 5% discount.")
@@ -22,7 +16,13 @@ def nodiscount():
 		# Test input here. If Y, call discount(), else call noDiscount().
 
 # End of main() function.
+def main():
 
+		registerString = input("Did you preregister? Enter Y or N: ")
+		if	registerString == "Y":
+			discount()
+		else:
+			nodiscount()
 
 # Write discount function here.
 
