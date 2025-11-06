@@ -2,7 +2,7 @@
 # Input:  Interactive.
 # Output:  Sum, difference, and product of two values.
 
-def main():
+def main(value1, value2):
 
     value1String = input("Enter first numeric value: ")
     value1 = float(value1String)
@@ -11,7 +11,8 @@ def main():
 
 
     # Call calculateSum() here
-
+def calculateSum(value1, value2):
+    result = value1 + value2
     # Call calculateDifference() here
 
     # Call calculateProduct() here
