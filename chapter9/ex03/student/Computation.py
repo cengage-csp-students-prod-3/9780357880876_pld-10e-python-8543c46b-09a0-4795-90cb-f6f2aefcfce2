@@ -14,14 +14,16 @@ def main(value1, value2):
 def calculateSum(value1, value2):
     result = value1 + value2
     # Call calculateDifference() here
-
+def calculateDifference(value1,value2):
+    resultDiff= value1-value2
     # Call calculateProduct() here
 
 # End of main() function.
 
 # Write calculateSum() function here.
 
-
+def calculateProduct(value1, value2):
+    resultproduct = value1 * value2
 # Write calculateDifference() function here.
 
 
