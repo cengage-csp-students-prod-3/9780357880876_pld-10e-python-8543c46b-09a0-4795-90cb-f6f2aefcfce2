@@ -25,6 +25,5 @@ def main():
 # Write discount function here.
 
 
-if __name__ == '__main__':
 # Call the main function to run program
-	main()
+main()
