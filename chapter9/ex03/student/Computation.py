@@ -11,24 +11,25 @@ def main(value1, value2):
 
 
     # Call calculateSum() here
-def calculateSum(value1, value2):
-    result = value1 + value2
+calculateSum()
     # Call calculateDifference() here
-def calculateDifference(value1,value2):
-    resultDiff= value1-value2
+calculateDifference()
     # Call calculateProduct() here
-
+calculateProduct()
 # End of main() function.
 
 # Write calculateSum() function here.
+def calculateSum(value1, value2):
+    result = value1 + value2
 
-def calculateProduct(value1, value2):
-    resultproduct = value1 * value2
 # Write calculateDifference() function here.
-
+def calculateDifference(value1,value2):
+    resultDiff= value1-value2
 
 # Write calculateProduct() function here.
-
+def calculateProduct(value1, value2):
+    resultproduct = value1 * value2
 
 if __name__ == '__main__':
+    main()
 # Call the main function to run program
