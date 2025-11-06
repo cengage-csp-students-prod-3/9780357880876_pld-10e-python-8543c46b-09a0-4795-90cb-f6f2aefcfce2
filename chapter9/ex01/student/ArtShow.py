@@ -12,7 +12,7 @@ def nodiscount():
 
 def main():
 
-		registerString = input("Did you preregister? Enter Y or N: ").lower()
+		registerString = input("Did you preregister? Enter Y or N: ")
 		if	registerString == "y":
 			discount()
 		else:
