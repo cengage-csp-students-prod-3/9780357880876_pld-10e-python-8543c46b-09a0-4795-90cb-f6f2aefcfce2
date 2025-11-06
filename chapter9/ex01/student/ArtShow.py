@@ -2,13 +2,6 @@
 # for preregistering.
 # Input:  Interactive.
 # Output:  A statement telling the user if they get a discount or no discount.
-def discount():
-	print("You are pre-registered and qualify for a 5% discount.")
-
-# Write noDiscount function here.
-def nodiscount():
-	print("Sorry, you did not pre-register and do not qualify for a 5% discount.")
-
 
 def main():
 
@@ -17,6 +10,15 @@ def main():
 			discount()
 		else:
 			nodiscount()
+
+def discount():
+	print("You are pre-registered and qualify for a 5% discount.")
+
+# Write noDiscount function here.
+def nodiscount():
+	print("Sorry, you did not pre-register and do not qualify for a 5% discount.")
+
+
 		# Test input here. If Y, call discount(), else call noDiscount().
 
 # End of main() function.
